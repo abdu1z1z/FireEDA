@@ -22,3 +22,6 @@ The dataset aims to help researchers and specialists predict the occurrence of f
 
 
 
+Project contributors :
+abdulaziz althobaiti 
+Khalid alsoqairi 
