@@ -18,10 +18,3 @@ Purpose of the Dataset:
 The dataset aims to help researchers and specialists predict the occurrence of fires by analyzing meteorological patterns and factors that contribute to fire outbreaks. This can aid in improving rapid response and taking preventive measures to reduce the risk of fires.
 
 
-
-
-
-
-Project contributors :
-abdulaziz althobaiti 
-Khalid alsoqairi 
